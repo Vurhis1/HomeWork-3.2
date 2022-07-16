@@ -3,7 +3,7 @@ public class Main {
 
         int startCheck = 100; //у клиента на счёте 100 рублей
         int addOnStartCheck1 = 1100; //Клиент пополнил счёт
-        boolean task = true;
+        boolean task = true; //условие, при которым бонус будет получен, либо нет
 
         int percent;
         if (task) {
